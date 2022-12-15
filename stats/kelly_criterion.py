@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import random
-
+import math
 
 p = 0.6 # probability of winning
 q = 1 - p
