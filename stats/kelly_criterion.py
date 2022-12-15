@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import random
 
+
 p = 0.6 # probability of winning
 q = 1 - p
 a = 1.0 # proportion lost on a negative outcome
