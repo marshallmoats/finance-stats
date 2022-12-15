@@ -56,8 +56,8 @@ class MarkovChain:
                 break
             x -= prob  
 
-a = np.array([[0.3, 0.7],
-              [0.7, 0.3]])
+a = np.array([[0.9, 0.1],
+              [0.5, 0.5]])
 
 
 m = MarkovChain(a, [0.5, 0.5])
